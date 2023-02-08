@@ -1,0 +1,19 @@
+{
+  "name": "practicum-web-plus",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/const-se/practicum-web-plus.git"
+  },
+  "author": "Konstantin Seleznev",
+  "license": "MIT",
+  "homepage": "https://github.com/const-se/practicum-web-plus#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
